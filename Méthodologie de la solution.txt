@@ -1,0 +1,16 @@
+La méthode de résoltion du problé est la suivante:
+
+à la fin de chaque année la salle de sport accorde ou pas une promotion au client. Il s'agit d'une réduction de Tarif pour le mois (1 mois)  à venir.
+les réductions les plus importantesétat accordées aux clients qui payent le plus cher et/ou qui sont clients depuis longtemps.
+
+
+Je demande à l'utilisateur (avec un prommpt) d'entrer le type du client 1.premimum 2.middle 3 basic. ceci est connu par le contrat et le tarif qu'il paye.
+puis Je demande à l'utilisateur (avec un prompt)d'entrer l'ancienneté du client dans la salle de sport (1.longue durée 2 Moyenne durée 3 courte durée)
+
+nous avons supposé que les seuils pour attribier les chiffre (1,2,3) sont connues et déja fixés.
+
+puis l'utilisateur doit entrer le montant de la mensualité habituelle que le client paye, et ce, dans une fenêtre input.
+L'utilisateur clique sur le bouton se trouvant collé à droite de cette fenêtre input afin d'obtenir le Tarif réduit, si réduction il y a.
+
+évidemment il est possible de rajouter d'autres fonctionnalités Tels qu'un méssage d'alerte qui afficherai s'il y a eu réduction ou pas.
+
